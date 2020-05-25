@@ -4,6 +4,7 @@ Neste repositório incluímos diversos notebooks em Python que descrevem os prin
 
 O notebooks são os seguintes:
 
-**Análise Exploratória de dados**: incluí medidas resumo, medidas de correlação e informação mútua.
+**Aula 1: Tratamento e transformação dos dados**: Apresentamos exemplos de como limpar e adequar os dados para serem tratados por algoritmos de Ciência de Dados. Também consideramos métodos básicos de pré-processamento e transformação de dados.
+**Análise Exploratória de dados**: incluí medidas resumo e de correlação (Pearson e Spearman).
 
 Novos notebooks serão incluídos periodicamente.
