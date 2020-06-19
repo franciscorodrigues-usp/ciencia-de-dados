@@ -8,9 +8,9 @@ O notebooks são os seguintes:
 Aula no Youtube: https://bit.ly/3em6BA0
 
 **Aula 2 - Análise Exploratória de dados**: inclui medidas resumo e de correlação (Pearson e Spearman).<br>
-Aula no youtube: 
-Medidas resumo: https://bit.ly/37HwebF
-Correlação: https://bit.ly/2UXDhIe
+Aula no youtube: <br> 
+Medidas resumo: https://bit.ly/37HwebF <br>
+Correlação: https://bit.ly/2UXDhIe <br>
 
 
 Novos notebooks serão incluídos periodicamente.
