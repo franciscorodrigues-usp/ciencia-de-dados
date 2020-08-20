@@ -12,5 +12,10 @@ Aulas no youtube: <br>
 Medidas resumo: https://bit.ly/37HwebF <br>
 Correlação: https://bit.ly/2UXDhIe <br>
 
+**Aula 3 - Teoria da Decisão Bayesiana e o Classificador Bayesiano**.
+Aulas no youtube: <br> 
+Teoria da Decisão Bayesiana: https://www.youtube.com/watch?v=8zAKWEOdGsg <br>
+Classificador Bayesiano: https://www.youtube.com/watch?v=Rq_hXHrdkbc <br>
+
 
 Novos notebooks serão incluídos periodicamente.
