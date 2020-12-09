@@ -24,5 +24,18 @@ Aulas no youtube: <br>
 Teoria da Decisão Bayesiana: https://www.youtube.com/watch?v=8zAKWEOdGsg <br>
 Classificador Bayesiano: https://www.youtube.com/watch?v=Rq_hXHrdkbc <br>
 
+**Aula 4 - Classificador Naive Bayes**.
+Aulas no youtube: <br> 
+https://www.youtube.com/watch?v=Bk2mSIMw_XE&list=PLSc7xcwCGNh1PJrPfLaH4MMjfDl48tmGM&index=11&ab_channel=FranciscoRodrigues
 
-Novos notebooks serão incluídos periodicamente.
+**Aula 5 – Algoritmo k-vizinhos mais próximos**.
+Aulas no youtube: <br> 
+https://www.youtube.com/watch?v=7WySJWL2o_4&list=PLSc7xcwCGNh1PJrPfLaH4MMjfDl48tmGM&index=12&ab_channel=FranciscoRodrigues
+
+**Aula 6 – Regressão Logística**.
+Aulas no youtube: <br> 
+https://www.youtube.com/watch?v=EoP2wN0yuHA&list=PLSc7xcwCGNh1PJrPfLaH4MMjfDl48tmGM&index=13&ab_channel=FranciscoRodrigues
+
+Se for usar em suas aulas, cite a fonte: https://github.com/franciscoicmc
+
+Novos notebooks serão incluídos periodicamente. 
